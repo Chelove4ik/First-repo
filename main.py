@@ -1,1 +1,1 @@
-print("Hello world")
+while True: print(input());
